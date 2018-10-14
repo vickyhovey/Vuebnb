@@ -1,6 +1,6 @@
 var sample = {
   title: 'Central Downtown Apartment with Amenities',
-  address: 'No. 11, Song-Sho Road, Taipei City, Taiwan 105',
+  address: '30-02 39th Ave, Long Island City, New York',
   about: 'Come and stay at this modern and comfortable apartment! My home is centrally located right in the middle' +
   ' of the downtown. Talk about convenience! Shops, stores, and other destination areas are nearby. \r\n\r\nFeel the ' +
   'warmth of the sun as there is plenty of natural light showers. The living room features tv, sofa, table, radio, ' +
